@@ -1,1 +1,1 @@
-# diabates_prediction_in_ML
+# Diabates_Prediction_in_ML
